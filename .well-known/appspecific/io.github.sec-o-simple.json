@@ -1,0 +1,23 @@
+{
+  "template": {
+    "document-information.notes": [
+      {
+        "id": "summary",
+        "category": "summary",
+        "title": "Summary"
+      },
+      {
+        "id": "legaldisclaimer",
+        "category": "legal_disclaimer",
+        "title": "Legal Disclaimer"
+      },
+      {
+        "id": "product",
+        "category": "description",
+        "title": "Product Description"
+      }
+    ]
+
+  }
+}
+
